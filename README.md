@@ -26,7 +26,8 @@ It demonstrates the implementation of basic programming concepts including strin
 Provides a console-based interactive menu with the following functions:
 
 #### a. Display Data
-- Displays stored data in a structured format.  
+- Displays stored data in a structured table format.  
+- User can choose **how many rows of data** to display (e.g., first 5, 10, or all data).  
 
 📷 **Screenshot:**  
 ![Display Data](screenshots/Display.png)
@@ -47,7 +48,9 @@ Provides a console-based interactive menu with the following functions:
 ---
 
 #### c. Sorting Data
-- Sorts the available data for easier lookup and analysis.  
+- Allows sorting of data based on selected columns (e.g., `Rooms`, `Price`, etc.).  
+- User can choose **ascending** or **descending** order.  
+- Displays the sorted dataset in a tabular format.  
 
 📷 **Screenshot:**  
 ![Sorting Data](screenshots/Sort.png)
