@@ -1,6 +1,6 @@
-# 📘 Algorithm & Programming (AOL) Project
+# 📘 Algorithm & Programming Project
 
-This repository contains the **Algorithm & Programming (AOL)** project for the course assignment.  
+This repository contains the **Algorithm & Programming** project for the course assignment.  
 It demonstrates the implementation of basic programming concepts including string manipulation, menu-driven programs, searching, sorting, and file export.
 
 ---
@@ -35,10 +35,14 @@ Provides a console-based interactive menu with the following functions:
 
 #### b. Search Data
 - Allows searching for a specific data entry.  
-- Handles both **Found** and **Not Found** cases.  
+- Handles both cases: **Found** and **Not Found**.  
 
-📷 **Screenshot:**  
-![Search Data](screenshots/Search.png)
+📷 **Screenshots:**  
+- When data is **Found**:  
+  ![Search Data Found](screenshots/Search_found.png)  
+
+- When data is **Not Found**:  
+  ![Search Data Not Found](screenshots/Search_notfound.png)  
 
 ---
 
