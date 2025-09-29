@@ -65,11 +65,12 @@ Provides a console-based interactive menu with the following functions:
 
 ---
 
-## 📊 Export Result
-- Data is successfully exported and can be viewed outside the program.  
+#### d. Export Data
+- Exports the dataset into a **CSV file**.  
+- Allows the exported data to be opened and analyzed in external tools such as Excel.  
 
 📷 **Screenshot:**  
-![Export Result](screenshots/Result.png)
+![Export Data](screenshots/Result.png)
 
 ---
 
