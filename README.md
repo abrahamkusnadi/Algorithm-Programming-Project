@@ -58,15 +58,14 @@ Provides a console-based interactive menu with the following functions:
 ---
 
 #### d. Export Data
-- Exports the dataset to an external file for persistence.  
+- Exports the dataset into a **CSV file**.  
 
 📷 **Screenshot:**  
 ![Export Data](screenshots/Export.png)
 
 ---
 
-#### d. Export Data
-- Exports the dataset into a **CSV file**.  
+#### d. Export Result
 - Allows the exported data to be opened and analyzed in external tools such as Excel.  
 
 📷 **Screenshot:**  
