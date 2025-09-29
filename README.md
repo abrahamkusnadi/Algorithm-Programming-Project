@@ -15,7 +15,7 @@ It demonstrates the implementation of basic programming concepts including strin
 
 ### 1. Reverse String & Reverse Capslock
 - Function to reverse a string.  
-- Option to reverse **capslock** (uppercase to lowercase and vice versa).  
+- Reverse **capslock** (uppercase to lowercase and lowerdase to uppercase).  
 
 📷 **Screenshot:**  
 ![Reverse String](screenshots/Reverse.png)
